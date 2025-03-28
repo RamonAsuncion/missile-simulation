@@ -10,5 +10,6 @@ A simple 2D weapon system simulation using SFML where you can control a missile'
 
 ## Preview
 
+
 ![Radar Simulation](./screenshot.png)
 
